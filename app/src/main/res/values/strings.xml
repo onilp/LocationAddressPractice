@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LocationAddressPractice</string>
+    <string name="fetch_address">Fetch Address</string>
+    <string name="no_address_found" />
+    <string name="no_location_data_provided" />
+    <string name="service_not_available" />
+    <string name="invalid_lat_long_used" />
+    <string name="address_found" />
+    <string name="settings" />
+    <string name="permission_denied_explanation" />
+    <string name="permission_rationale" />
+    <string name="no_geocoder_available" />
+</resources>
